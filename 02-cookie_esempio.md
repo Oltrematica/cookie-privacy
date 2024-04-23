@@ -43,7 +43,7 @@ Di seguito è riportato un elenco dei Cookie utilizzati sul Sito, con indicazion
 
 **4. Gestione dei Cookie**
 
-L'utente può gestire le proprie preferenze relative ai Cookie attraverso le impostazioni del proprio browser o utilizzando strumenti specifici.
+L'utente può gestire le proprie preferenze relative ai Cookie attraverso le impostazioni del proprio browser o utilizzando **strumenti specifici messi a disposizione su questo sito tramite apposito pulsante in basso a destra**.
 
 **4.1 Impostazioni del browser**
 
